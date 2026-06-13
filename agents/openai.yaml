@@ -1,0 +1,4 @@
+interface:
+  display_name: "Factor Research"
+  short_description: "Design testable factors from news, papers, and reports"
+  default_prompt: "Use $factor-research to turn this news, paper, report, announcement, metric, or investment idea into a testable factor design."
